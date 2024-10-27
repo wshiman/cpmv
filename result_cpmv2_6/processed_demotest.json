@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "video_path": "/root/autodl-tmp/data/falling/084.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling084/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling084/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling084/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling084/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling084/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling084/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling084/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling084/image_08.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07> Describe the video in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person attempting to skateboard down a slope in a residential area, but failing multiple times. They fall and get up repeatedly while others watch the scene. The text on the screen encourages viewers to \"Watch until the end,\" suggesting that there is an amusing or unexpected outcome at the conclusion of the attempt."
+            }
+        ]
+    }
+]

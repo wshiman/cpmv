@@ -1,0 +1,35 @@
+[
+    {
+        "id": "0",
+        "image": {
+            "<image_00>": "/root/cpmv2_6/result_frames/trimmed084/image_01.png",
+            "<image_01>": "/root/cpmv2_6/result_frames/trimmed084/trimmed084/image_02.png",
+            "<image_02>": "/root/cpmv2_6/result_frames/trimmed084/trimmed084/image_03.png",
+            "<image_03>": "/root/cpmv2_6/result_frames/trimmed084/trimmed084/image_04.png",
+            "<image_04>": "/root/cpmv2_6/result_frames/trimmed084/trimmed084/image_05.png",
+            "<image_05>": "/root/cpmv2_6/result_frames/trimmed084/trimmed084/image_06.png",
+            "<image_06>": "/root/cpmv2_6/result_frames/trimmed084/trimmed084/image_07.png",
+            "<image_07>": "/root/cpmv2_6/result_frames/trimmed084/trimmed084/image_08.png"
+        },
+        "pre_generated_label": "Negative",
+        "num_of_frames": 8,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07> Describe the video in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video showcases a person performing various physical exercises in an indoor setting. They start by jumping with their arms outstretched, then transition into a squatting position, and finally perform a squat jump where they lift themselves off the ground while maintaining a squat stance. The background features a modern design with circular cut-outs on a white wall, complementing the overall aesthetic of the exercise routine."
+            },
+            {
+                "role": "user",
+                "content": "Please understand the above text, whether the person mentioned in the text has fallen, fallen and other similar behaviors, if so, just answer positive, if not, just answer negative"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ]
+    }
+]

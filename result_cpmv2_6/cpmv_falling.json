@@ -1,0 +1,502 @@
+[
+    {
+        "video_path": "/root/autodl-tmp/data/falling/084.mp4",
+        "label": "Negative",
+        "response": "The video showcases a person performing various physical exercises in an indoor setting. They start by jumping with their arms outstretched, then transition into a squatting position, and finally perform a squat jump where they lift themselves off the ground while maintaining a squat stance. The background features a modern design with circular cut-outs on a white wall, complementing the overall aesthetic of the exercise routine."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/076.mp4",
+        "label": "negative",
+        "response": "The video shows a person performing squats in an indoor setting with a minimalist background. The individual starts standing upright, then bends their knees and lowers their body into a squat position while maintaining balance and control. They repeat the motion several times before returning to a standing position."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/098.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing a long jump in an indoor gymnasium. The individual is captured mid-air after taking off from the runway, indicating they have successfully executed their jump. The setting includes other people and equipment around, suggesting a practice or training session."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/082.mp4",
+        "label": "Negative",
+        "response": "The video features an individual performing a series of squat movements in front of a brick wall. The person is dressed in athletic attire, consisting of a blue sleeveless top and black shorts, complemented by bright blue sports shoes with yellow accents. Throughout the sequence, the individual transitions from standing upright to bending at the knees and hips into a squat position, then back up again. The background remains consistent throughout the frames, providing a simple and uncluttered setting that focuses attention on the exercise demonstration."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/083.mp4",
+        "label": "Negative",
+        "response": "A person is performing a sequence of movements in what appears to be a gym setting, with exercise equipment visible in the background. The individual starts by standing upright and then transitions through various postures including bending at the waist, raising their arms above their head, squatting down, and finally returning to an upright position. Throughout the video, the camera angle remains constant, focusing on the upper body and midsection of the person against the backdrop of the gym's interior."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/088.mp4",
+        "label": "negative",
+        "response": "The video depicts an individual performing a sequence of movements on a red running track. The person starts standing, then bends forward at the waist in a stretching position with arms extended downward and hands reaching towards their feet. Subsequently, they transition into a seated position, maintaining the forward bend while touching or attempting to touch their toes. Throughout these actions, the surroundings remain consistent, featuring a green field, tall trees, and residential buildings in the background."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/052.mp4",
+        "label": "Negative",
+        "response": "The video shows two individuals playing badminton in an indoor court. They are actively engaged in the game, moving around and reacting to the shuttlecock's movements. The court is equipped with a net and various items like shoes and a bench can be seen around it."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/092.mp4",
+        "label": "positive",
+        "response": "The video features a person standing on a green mat with the word \"LOUISON\" printed in white. They are wearing a light-colored top, dark pants, and white shoes. The setting appears to be an outdoor urban environment with buildings, vehicles, and people in the background. In the first frame, the individual is standing upright with their arms slightly outstretched. As the frames progress, they begin to move dynamically, bending at the waist and extending one arm outward while the other remains extended backward. By the final frame, the person has fallen forward onto the mat, with their legs bent at the knees and arms reaching towards the ground.\n\nOverlay text appears in the second frame that reads \"走！\", which translates from Chinese as \"Go!\" or \"Move!\" This suggests that there might be some sort of challenge or playful activity taking place where the individual is being prompted to act quickly or energetically."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/042.mp4",
+        "label": "Negative",
+        "response": "The video features a person performing a fitness routine in an indoor setting, possibly a studio or gym. The individual is dressed in workout attire, consisting of gray leggings and black shoes, with no shirt on, showcasing their upper body. They begin by standing upright facing the camera, then proceed to execute a series of movements that include squatting down into a lunge position and returning to an upright stance. Throughout the sequence, text overlays appear at the top left corner of the screen indicating \"SQUAT LUNGE\" and \"NEXT DROP SQUARE CROSS OVER,\" suggesting these are specific exercises being demonstrated. The environment is well-lit with natural light coming from windows behind the person, and there's a mirror reflecting part of the room, which helps viewers see the full range of motion during the exercise."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/016.mp4",
+        "label": "Negative",
+        "response": "The video captures a person performing a squat in an indoor setting, likely within an office or similar environment. The individual is dressed in athletic attire, consisting of a patterned top and black leggings, paired with sports shoes. They begin standing upright before bending their knees to lower into a squat position, maintaining a straight back throughout the exercise. The background features a neutral-colored wall adorned with a piece of abstract artwork depicting floral elements. As the person completes the squat, text appears on the screen, indicating praise for their effortlessness. The overall scene suggests a focus on fitness or physical training, with the person demonstrating proper form during the exercise."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/015.mp4",
+        "label": "Negative",
+        "response": "The video captures a person standing in an interior space with gray walls and a piece of wall art, then squatting down on a white circular mat. The individual is wearing a green top and blue jeans. Throughout the sequence, there are text overlays that provide commentary or feedback about the person's appearance or actions, but these are not detailed here."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/062.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing a squat in an indoor setting, likely a dance or fitness studio given the spacious area and mirrored walls. The individual is shirtless, wearing dark pants and bright red sneakers, which suggests that they are engaged in some form of physical exercise or training. The room appears to be well-lit with natural light coming from windows not visible in the frame, indicating it could be daytime. There are no other people or objects in the immediate vicinity, focusing all attention on the individual's movement."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/070.mp4",
+        "label": "Negative",
+        "response": "The video showcases a person engaging in a dynamic physical activity within an indoor setting, likely a dance or fitness studio. The individual is captured mid-motion, suggesting movement and energy. They are dressed in casual athletic wear consisting of dark pants and red shoes with white soles, which provides a contrast to the neutral tones of the room. The environment features minimalistic decor, with a focus on functionality rather than aesthetics. The presence of a door in the background implies that this space is designed for activities requiring some degree of privacy or separation from other areas. There's no visible audience or additional context provided, which centers the viewer's attention solely on the performer’s actions."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/002.mp4",
+        "label": "Negative",
+        "response": "The video shows a woman performing squats in an office cubicle, with text overlay indicating the date and her comment about the exercise."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/066.mp4",
+        "label": "Negative",
+        "response": "The video showcases an individual performing a squat exercise in a well-equipped gym. The person is dressed in athletic attire, including a white top and gray leggings, with white sneakers. They start by standing upright and then bend their knees to lower into a squat position, maintaining balance and form throughout the movement. The background reveals various fitness equipment such as weight machines and free weights, indicating that this setting is designed for strength training and other forms of physical exercise."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/097.mp4",
+        "label": "Negative",
+        "response": "The video captures a moment of athletic competition on an outdoor track. Initially, two individuals are seen at the starting line, poised for action against the backdrop of residential buildings and water towers under a clear sky. As the clip progresses, one participant launches into a long jump, their body suspended in mid-air above the sand pit, showcasing the dynamics of the sport. The other individual remains stationary, possibly awaiting their turn or observing the performance. After the jump, the athlete lands and begins to walk away from the pit, while the scene returns to its initial state with both participants near the starting line, suggesting the end of this particular event."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/075.mp4",
+        "label": "Negative",
+        "response": "The video features a person performing a series of squats in what appears to be a minimalist, well-lit indoor setting with a neutral background. The individual is dressed in athletic wear consisting of a white sports bra and black shorts, paired with dark sneakers. Their posture changes throughout the sequence, showcasing different stages of the squat movement, from standing upright to fully extended legs and back, then bending at the knees, and finally returning to an upright position. The environment remains consistent, suggesting that the focus is on the exercise technique rather than the surroundings."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/093.mp4",
+        "label": "Negative",
+        "response": "The video captures a young girl in the midst of a long jump on an outdoor track. She starts by crouching at the take-off point, then propels herself forward with her arms extended and legs bent, leaping into the air. As she gains momentum, her body arches backward, showcasing flexibility and strength. Upon reaching the peak of her jump, she begins to descend, her arms swinging back down as she prepares for landing. The sequence is dynamic, emphasizing the physicality and skill involved in the athletic endeavor."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/073.mp4",
+        "label": "Negative",
+        "response": "The video depicts a person performing a squat exercise in an indoor setting with a plain background. The individual starts by standing upright, then bends their knees and lowers their body into a squat position while extending their arms above their head. After reaching the lowest point of the squat, they return to the starting position and repeat the motion several times. The environment is minimalistic, focusing attention on the exercise demonstration."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/086.mp4",
+        "label": "Negative",
+        "response": "The video captures a track and field athlete in the midst of a long jump. The sequence begins with the athlete standing at the take-off board, preparing for the jump. As the video progresses, the athlete executes a powerful run-up towards the sand pit, showcasing agility and strength. Upon reaching the end of the runway, the athlete launches into a high arc above the sand, demonstrating excellent technique. Finally, the athlete lands in the sand pit, completing the jump. Throughout the action, other athletes can be seen on the adjacent lanes, indicating an active training session or competition environment."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/034.mp4",
+        "label": "Negative",
+        "response": "The video captures a sequence of movements performed by an individual in a room with light blue walls and a white shelf against the wall. The person, dressed in black athletic attire consisting of a t-shirt, shorts, and sneakers, starts standing upright with arms extended outward to the sides. They then transition into a squat position before shifting their weight onto one leg while extending the other behind them for balance. Finally, they return to a standing position, completing the movement cycle. Throughout the sequence, the background remains consistent, with no discernible changes or additional objects introduced."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/051.mp4",
+        "label": "Negative",
+        "response": "The video shows a person in a green t-shirt performing exercises or movements while two other individuals observe. The observer on the left is wearing a black cap, dark-colored t-shirt with white lettering, and light-colored pants, while the one on the right is dressed in a gray long-sleeved top and dark pants. They are all standing on a green turf-like floor within an indoor gym setting that features weight racks and mirrors along the wall."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/026.mp4",
+        "label": "Negative",
+        "response": "The video shows a person in a military uniform performing a series of movements on an open, paved area with trees and buildings in the background. The sequence includes standing at attention, saluting, and kneeling, all while maintaining a disciplined posture."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/014.mp4",
+        "label": "negative",
+        "response": "The video shows a person attempting to balance on a white, round object that resembles a skateboard or a balancing board. They are dressed in casual attire consisting of a patterned shirt and dark pants, with sneakers. The setting appears to be an indoor corridor with light-colored walls and a piece of wall art depicting blue floral patterns. As the video progresses, the individual's posture changes from standing upright to bending forward, indicating they might be trying to maintain their balance while moving or adjusting their position on the object."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/048.mp4",
+        "label": "Negative",
+        "response": "The video captures a moment from a badminton match, showcasing the intense focus and athleticism of the players. It begins with an overview of the court, highlighting the vibrant colors of the playing surface against the darker surroundings. The scoreboard in the background indicates that one player is leading by two points.\n\nAs the video progresses, we see a dynamic play unfold; a shuttlecock is in motion across the net, suggesting a rally between the two competitors. One player, dressed in a contrasting outfit to his opponent, is seen in mid-action, possibly having just hit or about to hit the shuttlecock. His posture suggests concentration and agility, essential traits for this sport.\n\nThe environment around the court is lively, with spectators visible in the stands, adding to the competitive atmosphere. Advertisements on the walls suggest commercial sponsorship typical of professional sports events. The camera angle provides a clear view of the action without any significant movement, allowing viewers to follow the play closely.\n\nOverall, the video encapsulates a snapshot of a high-stakes badminton match, emphasizing both the physical demands of the game and the engagement of its audience."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/038.mp4",
+        "label": "Negative",
+        "response": "The video showcases a person performing a squat exercise while holding a dumbbell in each hand. The individual is dressed in athletic attire, consisting of black shorts and shoes with white soles. Throughout the sequence, the person maintains proper form by keeping their back straight and knees aligned with toes, ensuring that knee alignment does not extend beyond the toes (as advised in one of the subtitles). The environment appears to be an indoor space with a neutral-colored background, possibly a gym or training facility. The lighting is even, highlighting the subject without casting harsh shadows. The focus remains on the lower half of the body as the individual transitions from standing to squatting, then back up again, demonstrating control and stability during the exercise routine."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/010.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing squats in an office environment, with text overlay providing feedback on their technique."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/023.mp4",
+        "label": "Negative",
+        "response": "The video shows a person in a military uniform standing in an outdoor setting, possibly a parking lot or open area with trees and buildings in the background. The individual is seen in various poses such as standing upright, slightly bending forward, and kneeling on one knee while holding what appears to be a rifle or similar object. There are Chinese characters visible at the bottom of some frames, suggesting that the content may pertain to a training or instructional context within a Chinese-speaking environment."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/019.mp4",
+        "label": "Negative",
+        "response": "The video shows a person in athletic attire performing squats outdoors near a picnic table. The individual is wearing a red top, black shorts, and multicolored socks with sneakers. The environment appears to be a park or recreational area with greenery and open space visible in the background."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/005.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing an Asian Squat in what appears to be an office setting. The individual is wearing casual clothing and is captured at different stages of the squat, from standing upright to fully crouched with their knees bent and thighs parallel to the ground."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/004.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing squats in an office environment. They are wearing casual attire, including a dark-colored t-shirt and light-colored pants, along with sneakers. The setting includes typical office furniture such as desks, chairs, computer monitors, and personal items like bags and plants. During the sequence of frames, text appears on the screen providing feedback or commentary related to the exercise being demonstrated."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/057.mp4",
+        "label": "negative",
+        "response": "The video shows a person in a purple workout outfit performing squats against a plain white background. The individual transitions smoothly through various stages of the squat, maintaining proper form and posture throughout the exercise routine."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/069.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing squats and punches in a fitness routine."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/020.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing squats in an outdoor setting, likely a park or sports field. The individual is wearing a red top, black shorts, and multicolored socks with sneakers. Throughout the sequence of frames, the person's posture changes from standing to squatting down and then back up, demonstrating their squatting ability."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/017.mp4",
+        "label": "Negative",
+        "response": "The video features a person performing squats in an indoor setting, with the camera focused on them from a side angle. The individual is wearing a patterned top and dark pants, and their footwear appears to be black shoes or boots. They maintain a consistent squat position throughout the frames captured. In the background, there's a wall-mounted painting that adds a decorative element to the space. The environment suggests it could be a home or office hallway."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/003.mp4",
+        "label": "Negative",
+        "response": "The video showcases an individual performing a squat exercise with a loaded barbell in a gym setting. The person, wearing grey shorts and black athletic shoes, starts by standing upright, gripping the barbell behind their necks, and then proceeds to lower themselves into a squat position, extending their legs fully at the bottom before returning to the starting position. Throughout the sequence, the individual maintains proper form and demonstrates control over the weight throughout the repetitions."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/058.mp4",
+        "label": "negative",
+        "response": "The video shows a person performing a series of movements in an outdoor setting. The individual is dressed in casual attire consisting of a black long-sleeve top, white pants, and dark shoes with light-colored soles. They start by standing with their feet apart and arms extended to the sides, resembling a wide-legged stance. As the video progresses, they move through various poses that suggest flexibility and balance exercises, such as bending at the hips or twisting their torso while maintaining a stable base.\n\nThroughout the sequence, the background remains consistent, featuring a natural environment with greenery and a stone wall, indicating that the activity takes place in an open area, possibly a park or garden. There are no significant changes in lighting or camera perspective, suggesting that the focus is on the individual's physical movements rather than the surroundings.\n\nOverall, the video captures a moment of physical exercise emphasizing posture and body alignment, set against a tranquil outdoor backdrop."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/028.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing a squat with weights on their back in an indoor gym setting. The individual is wearing a bright yellow shirt and black shorts, with red sneakers. They are using a squat rack to assist with the exercise, which involves lowering themselves down while maintaining a straight back position. The background includes various pieces of fitness equipment such as weight plates and blue mats."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/007.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing exercises in an office environment. The person is initially standing, then transitions into a squat position and continues to hold this stance with arms extended outwards for stability."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/055.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing an exercise routine in a room with pink walls and a framed picture of a beach scene. The individual is wearing a red t-shirt, red shorts, and a blue cap, and they are barefoot. Throughout the sequence, the person transitions through different stances and movements while maintaining focus on their form. Text appears at various points during the video providing instructions or information related to the exercises being demonstrated."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/035.mp4",
+        "label": "Negative",
+        "response": "The video shows a man in a gym performing squats, with Chinese text appearing at the bottom of each frame."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/029.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing deadlifts in a gym setting. The individual, wearing a bright yellow sleeveless top and black shorts with red shoes, is positioned facing away from the camera, lifting weights on a barbell set within a squat rack. Throughout the sequence of frames, the weight plates on either side of the barbell appear to be increasing in number, suggesting that more weight is being added for each repetition.\n\nText overlays are present at the bottom of the screen, providing information such as \"80%-90% 1RM\" followed by \"5x4x3,\" which likely refers to the weight percentage of one rep max (1RM), the number of sets, and repetitions. Additional text appears in subsequent frames, mentioning \"重量不轻了,\" translating to \"the weight isn't light anymore,\" and later, \"看起来他已经有充分热身完成,\" meaning \"it looks like he has fully warmed up.\"\n\nThe environment includes a wooden floor and various gym equipment in the background, including blue exercise balls. The lighting is consistent throughout, indicating an indoor setting with artificial illumination."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/056.mp4",
+        "label": "Negative",
+        "response": "The video showcases a person performing single-leg squats in a gym setting. The individual, dressed in athletic attire with no shirt and wearing black shorts, white sneakers, and dark socks, demonstrates the exercise by bending one knee while standing on the other leg. The environment is well-equipped with various fitness equipment like weights and racks visible in the background, indicating that it's a professional or commercial gym space. The lighting appears bright and evenly distributed, enhancing visibility of the workout area. Throughout the sequence, the person maintains proper form, emphasizing control and technique during the exercise."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/041.mp4",
+        "label": "Negative",
+        "response": "The video showcases an individual performing a squat exercise in a well-equipped gym. The person is wearing athletic attire and is seen holding large orange dumbbells, executing the movement with controlled form. The background features various fitness equipment such as kettlebells, medicine balls, and racks filled with other workout gear. The flooring has markings that resemble those found on sports fields, suggesting the space may be used for diverse training activities. The lighting within the room is bright, highlighting the vibrant colors of the equipment and the green turf-like floor."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/033.mp4",
+        "label": "Negative",
+        "response": "The video shows an individual performing a series of squat movements in a room with blue curtains and white walls. The person is wearing a black sleeveless top, black shorts, and dark athletic shoes."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/043.mp4",
+        "label": "negative",
+        "response": "The video shows a person demonstrating an exercise routine in a gym setting. The individual is wearing black pants and a long-sleeved shirt with white sleeves, standing near the entrance of the room which has a modern design featuring wood paneling and a large mirror reflecting part of the space. Various fitness equipment such as medicine balls, stability balls, and resistance bands are visible around the room.\n\nIn the first frame, the person appears to be preparing for the exercise, possibly explaining the technique or providing instructions. In the subsequent frames, they transition into performing a squatting movement, emphasizing proper form by keeping their feet slightly apart, which is suggested by the text overlay in Chinese characters. The sequence captures different stages of the squat, highlighting the correct posture and leg positioning during the exercise."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/078.mp4",
+        "label": "Negative",
+        "response": "The video features an individual performing a sequence of movements in an outdoor setting, starting from standing with arms outstretched and gradually transitioning into a squatting position while maintaining the arm extension. The person is dressed in athletic attire suitable for exercise or physical activity. The background includes green grass, a brick wall, and what appears to be gym equipment, suggesting the location might be a fitness area within a park or similar recreational space. Throughout the video, there are instructional text overlays providing guidance on the actions being performed."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/024.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing squats in a gym setting. The individual is wearing a white t-shirt and black shorts, with their arms extended to the sides for balance during the exercise. The background features various gym equipment, including weight racks labeled \"INOTEC,\" indicating a well-equipped facility."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/044.mp4",
+        "label": "negative",
+        "response": "The video depicts an individual demonstrating a squat exercise in a well-equipped indoor fitness room. The person, dressed in workout attire, performs the movement with proper form, transitioning from standing to crouching and then back up again. The environment is organized with various fitness equipment such as stability balls, dumbbells, and step platforms arranged neatly around the space. The background features motivational posters, colorful wall accents, and a digital timer displaying numbers \"02\" and \"03.\" Throughout the demonstration, on-screen text provides explanations related to the exercise being performed, emphasizing differences between gym and home workouts for deep squats."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/053.mp4",
+        "label": "negative",
+        "response": "The video shows a badminton match in progress on an indoor court with multiple players. The main focus is on a player dressed in yellow, who is actively engaged in the game, moving and swinging their racket to hit the shuttlecock. Other players are seen in various positions around the court, indicating ongoing play. The environment includes gymnasium features like walls, doors, and windows, suggesting a sports facility."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/025.mp4",
+        "label": "Negative",
+        "response": "The video captures a person in a uniform squatting on a basketball court, with trees and buildings visible in the background. The individual is seen transitioning from a squat to standing posture multiple times throughout the sequence."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/071.mp4",
+        "label": "Negative",
+        "response": "The video features an individual demonstrating a one-legged squat on a wooden deck surrounded by trees. The person, dressed in a dark tank top and light-colored pants, performs the exercise with proper form, maintaining balance on one leg while extending the other behind them. The deck is elevated with a railing visible in the background, suggesting a natural setting like a forest or park. The lighting indicates it might be daytime, and the focus remains on the individual's movement throughout the sequence of frames provided."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/018.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing a squatting motion in an indoor setting. The individual is dressed in dark clothing and appears to be focused on their task, which involves interacting with something on the floor. The room has a modern aesthetic with light-colored walls and a decorative piece hanging above the doorframe where the action takes place."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/036.mp4",
+        "label": "negative",
+        "response": "The video shows a person performing various movements in what appears to be an indoor setting, possibly a gym or training room. The individual is dressed in athletic wear—a black t-shirt and shorts—and is wearing sports shoes. Initially standing upright with arms crossed over the chest, they then lower into a squat position before extending their legs back into a lunge stance. Following this, the person extends one arm out to the side while maintaining balance on the other leg, which suggests a dynamic movement like a side step or a stretch. Throughout these actions, the background remains consistent, featuring a plain wall with some items mounted on it, such as a rack holding what looks like gloves or protective gear."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/031.mp4",
+        "label": "Negative",
+        "response": "The video showcases an individual performing a deadlift with a barbell loaded with weights. The person, dressed in a white T-shirt and dark pants, is seen standing upright, lifting the barbell from the ground to hip level, then lowering it back down. This sequence of movements occurs on what appears to be a tiled outdoor area, possibly a balcony or courtyard, adjacent to a residential building."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/008.mp4",
+        "label": "Negative",
+        "response": "The video shows a man in an office environment performing squats on a small mat. He is wearing black clothing and sneakers, and the background includes desks, chairs, and office supplies. The text overlay asks if his coworkers can \"ASIAN SQUAT,\" which seems to be a playful or humorous reference."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/094.mp4",
+        "label": "negative",
+        "response": "The video shows a person performing an athletic activity, likely in a sports or training setting. The sequence of frames captures the individual's movements from preparation to execution and follow-through of their action."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/006.mp4",
+        "label": "Negative",
+        "response": "The video shows a man performing a squat in an office environment, with text overlay that seems to be a reaction or commentary on his performance."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/012.mp4",
+        "label": "Negative",
+        "response": "The video shows a woman in a red dress performing squats indoors, with text overlay suggesting she is rating her coworkers' Asian Squats."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/080.mp4",
+        "label": "Negative",
+        "response": "The video features an individual performing a squat exercise in a gym setting. The person is wearing a blue t-shirt with colorful lettering, black shorts, and dark shoes. They are using a barbell loaded with weight plates on their shoulders. Throughout the sequence, the individual transitions from standing to crouching into the squat position, then back up again. The gym environment includes various fitness equipment like weight racks and mirrors reflecting the surroundings. The lighting appears bright, typical of indoor sports facilities."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/021.mp4",
+        "label": "Negative",
+        "response": "The video shows a person in a green military uniform performing a kneeling stance, with instructions provided through subtitles. The individual is wearing white gloves and black shoes, and the background consists of trees and red banners."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/099.mp4",
+        "label": "Negative",
+        "response": "The video captures an individual performing a workout routine in what appears to be a home gym. The person is dressed in athletic attire, including a sports bra and shorts, with sneakers on their feet. They are initially standing upright on a mat placed on the floor, which has some markings or designs on it. In the background, there's exercise equipment, such as an elliptical trainer.\n\nAs the video progresses, the individual transitions into a squatting position, maintaining balance on the mat. Their posture changes slightly, indicating movement and engagement in the exercise. Throughout the sequence, the camera remains stationary, focusing on the individual and their movements without any noticeable panning or zooming. There is text overlaid at one point during the video, but its content is not described due to the guidelines provided."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/045.mp4",
+        "label": "negative",
+        "response": "The video showcases a person performing a squat in an indoor gym setting. The sequence starts with the individual in a blurred pose, then transitions to a clear view of them executing the squat movement."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/050.mp4",
+        "label": "Negative",
+        "response": "The video shows a tennis player executing a backhand shot on a blue court. The player, wearing a red top and patterned skirt with pink shoes, positions themselves to receive the ball, swings their racket in a smooth motion, makes contact with the ball, and follows through with their swing. Throughout the sequence, the player's body movements are fluid, showcasing athletic ability and technique."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/065.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing side-staggered squats on a wooden deck surrounded by trees. They are wearing a black sleeveless top with white text, dark pants, and flip-flops. The environment appears to be a natural outdoor setting during the day."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/061.mp4",
+        "label": "Negative",
+        "response": "The video showcases an individual performing a series of dynamic dance movements in what appears to be a spacious, well-lit room with large windows. The person is shirtless and wears fitted dark pants, emphasizing their physique as they execute various dance steps that involve arm extensions and leg movements. Their body language suggests confidence and rhythm, indicative of practice or performance. The background remains consistent throughout the frames, featuring a wooden floor, mirrored walls on one side, and minimalistic decor, which keeps the focus on the dancer's actions."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/032.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing squats in an indoor setting with blue curtains and white walls. The individual is dressed in black athletic wear, including a sleeveless top with a logo, shorts, socks, and sneakers. They start standing upright, then squat down by bending their knees and lowering their body until the thighs are parallel to the ground, before returning to the starting position. This sequence of movements is repeated several times throughout the video."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/011.mp4",
+        "label": "Negative",
+        "response": "The video shows a woman with red hair performing an awkward squat in an office setting. The room has typical office features, such as cubicles, desks, chairs, and computer monitors. The lighting appears to be fluorescent, common in office environments."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/091.mp4",
+        "label": "Negative",
+        "response": "The video shows an individual in a sports setting, likely engaged in stretching or warming-up exercises. The person is wearing athletic attire and performing various stretches on a track field with stadium seating visible in the background."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/037.mp4",
+        "label": "negative",
+        "response": "The video shows an individual performing a squat exercise with dumbbells in both hands. The person is dressed in athletic attire, consisting of a black T-shirt and shorts, along with sports shoes. They are standing against a neutral grey background that appears to be a gym or workout area. Throughout the sequence, the individual maintains a straight back posture while executing the squats, which involve bending at the knees and hips to lower their body towards the ground before pushing back up to the starting position. Subtitles in Chinese are present on the screen, likely providing instructions or commentary related to the exercise routine."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/068.mp4",
+        "label": "Negative",
+        "response": "The video features a person in a dark-colored tracksuit with white accents and a Nike logo, standing against a backdrop adorned with repeated logos of a stylized hand and flame design. The individual is seen from the side initially and then turns to face forward, wearing headphones around their neck. They are holding a microphone close to their mouth throughout the sequence, suggesting they might be speaking or about to speak. The setting appears to be indoors with controlled lighting that casts soft shadows behind the subject."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/060.mp4",
+        "label": "Negative",
+        "response": "The video showcases an individual performing a series of dynamic and intense movements in what appears to be a spacious, well-lit dance or exercise studio. The person is initially seen squatting with their arms extended forward, then transitions into a wide-legged stance, possibly preparing for a dance move or stretching routine. Their attire consists of dark-colored workout pants and sneakers, indicating the activity involves physical exertion. The environment is minimalistic, featuring large mirrors on one wall that reflect the room's interior, enhancing the sense of space. There are no other individuals or objects in the immediate vicinity, focusing attention solely on the performer's actions."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/081.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing squats on a grey mat against a white background. They wear a pink tank top, black shorts, and athletic shoes. The individual transitions between squatting down with their arms at their sides and then extending them above their head before returning to the squat position."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/096.mp4",
+        "label": "Negative",
+        "response": "The video captures an individual on a concrete court performing a jump. The sequence begins with the person standing still, followed by them squatting and then executing a powerful leap. As they land, their legs are bent in a landing position. Throughout the video, text appears at the bottom of the screen providing context or commentary related to the action being shown."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/072.mp4",
+        "label": "Negative",
+        "response": "The video depicts a person performing martial arts on an outdoor wooden deck surrounded by trees. The individual, wearing a black sleeveless top and dark pants, executes various stances and movements, including crouching positions and hand gestures indicative of martial arts practice."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/059.mp4",
+        "label": "Negative",
+        "response": "The video captures a person performing a squat exercise in what appears to be an indoor setting with a green curtain backdrop. The individual is dressed in athletic attire, consisting of a bright lime-green top and navy-blue shorts, complemented by sports shoes. Throughout the sequence, the person maintains a straight posture while executing the squat motion from a standing position to nearly touching the ground before returning to a standing position. The environment remains static throughout, focusing solely on the movement demonstration without any additional props or distractions."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/027.mp4",
+        "label": "Negative",
+        "response": "The video captures a moment in an indoor gym where individuals are engaged in weightlifting activities. In the foreground, a person is squatting with a barbell loaded with weights on their shoulders, demonstrating proper form and balance. They wear athletic attire, including a white t-shirt, knee sleeves, shorts, and sneakers, indicating preparation for or engagement in physical exercise. The environment is equipped with various fitness equipment such as free weights, racks, and benches, suggesting that it's a space dedicated to strength training.\n\nIn the background, other individuals can be seen either resting or engaging in different exercises, contributing to the dynamic atmosphere of the gym. The lighting appears bright, likely from overhead fixtures, illuminating the entire area evenly. There are no visible windows, which may imply that the gym has interior lighting solutions. The floor is marked with lines typically used for organizing workout spaces within gyms.\n\nThroughout the sequence, there is no significant change in the setting or the actions of the people present, emphasizing a consistent focus on weightlifting practice."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/090.mp4",
+        "label": "positive",
+        "response": "The video shows a person in an office setting attempting to perform a seated position on a mat, but failing and falling onto the floor. The environment includes desks with computers, chairs, filing cabinets, and personal items like a plant. Text overlay appears throughout the sequence commenting on the attempt and resulting fall."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/039.mp4",
+        "label": "Negative",
+        "response": "The video features an individual demonstrating a squat exercise using dumbbells. They start in a standing position, holding the dumbbells at shoulder height with both hands, and then perform a series of squats while maintaining proper form, including keeping their back straight, knees bent, and feet firmly planted on the ground. The environment is minimalist, with a neutral grey background that emphasizes the subject's movements."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/046.mp4",
+        "label": "Negative",
+        "response": "The video showcases an individual performing squats in a gym setting, with the camera capturing their movements from various angles. The person is dressed in athletic attire and demonstrates proper form while squatting down and up. The gym environment features exercise equipment, mirrors, and motivational posters on the walls. Throughout the video, text appears at the bottom of each frame, likely providing guidance or explanations related to the squat technique being demonstrated."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/067.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing squats on a blue circular mat in an indoor setting with curtains in the background. The individual is dressed in athletic attire, consisting of a black t-shirt and shorts, along with white sneakers. As the sequence progresses, the person transitions from standing to squatting down completely, then back up again. A yellow number \"14\" appears on the screen during the squat motion, likely indicating either the count or a marker for timing or exercise repetition."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/054.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing squats in what appears to be an indoor setting with a dark background. The individual is dressed in athletic attire, including a pink sports bra and light purple leggings, along with black sneakers. They are also wearing a smartwatch on their left wrist. The lighting focuses on the subject, creating a contrast between them and the darker surroundings. Throughout the sequence, the person maintains proper form while executing the squat exercise, demonstrating control and balance."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/100.mp4",
+        "label": "Negative",
+        "response": "The video captures a sequence of a person performing squats in a gym setting. The individual, who is shirtless and wearing gray shorts with white stripes on the sides, is seen engaging in this exercise routine. The barbell loaded with blue weight plates is positioned across their shoulders throughout the series of frames.\n\nIn each frame, the person transitions through various stages of the squat movement: from standing upright with the barbell at shoulder height, bending down to lower their body into a squat position, maintaining a low stance before pushing back up towards the starting position. This cycle repeats seamlessly, showcasing the full range of motion involved in the squat exercise.\n\nThe gym environment includes other fitness equipment such as weight racks and mirrors that reflect the surroundings. The lighting appears bright, illuminating the space evenly, which highlights the person's muscular build and the details of the workout area. There are no discernible changes in the background or additional objects moving during the sequence, focusing solely on the individual's repetitive squatting action."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/079.mp4",
+        "label": "Negative",
+        "response": "The video captures a sequence of events in an office setting. Initially, we see a man standing and looking down at his phone, seemingly focused on the screen. The environment is typical of an office with cubicles, desks, chairs, and various office supplies visible in the background. As the video progresses, the man transitions into performing an Asian squat, lowering himself to a seated position with his knees bent and feet flat on the floor mat. Throughout these actions, there's no significant change in the surroundings or the camera angle, maintaining a steady view of the individual's movements within the office space."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/077.mp4",
+        "label": "Negative",
+        "response": "The video features an individual performing a series of physical exercises on a paved area with a railing, set against the backdrop of a city skyline and body of water. The person is dressed in athletic attire, including shorts and sneakers, and appears to be engaged in a workout routine that involves stretching or exercising their arms and legs. Throughout the sequence, the person transitions through various poses, suggesting dynamic movement and flexibility as part of the exercise regimen."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/085.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing various movements in an indoor gym setting. The person is seen standing, bending over, and making a jump with their hands on their head while wearing athletic clothing and shoes. The gym equipment and surroundings suggest that the individual may be demonstrating or practicing exercises for physical fitness or training purposes."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/030.mp4",
+        "label": "Negative",
+        "response": "The video showcases an individual performing squats with a loaded barbell in what appears to be a tiled outdoor area, possibly a patio or courtyard. The person is dressed in casual workout attire consisting of a white t-shirt and dark pants. They execute the squatting movement by bending their knees and lowering themselves into a squat position before pushing back up to a standing position. The environment includes a potted plant beside the weightlifting equipment, which consists of red weights on either side of the barbell. The lighting suggests it might be daytime, and there are no other individuals visible in the immediate vicinity."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/074.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing squats in an indoor setting with a plain background. The individual is shirtless, wearing dark-colored shorts and athletic shoes, and appears to be demonstrating proper form for the exercise."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/013.mp4",
+        "label": "negative",
+        "response": "The video shows a person performing squats in a gym, with the camera capturing different angles and stages of the exercise. The environment is equipped with various fitness tools and weights, and there are Chinese characters on screen that provide context or instructions related to the exercise being demonstrated."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/087.mp4",
+        "label": "negative",
+        "response": "The video captures a sequence of events on an outdoor running track. Initially, an individual stands at the starting line of one lane, dressed in white athletic attire and wearing a cap. The background features green trees and what appears to be school buildings, suggesting this might be within a campus or sports complex.\n\nAs the video progresses, the person begins to bend down towards the ground, placing their hands near the start line. This action is repeated several times, with slight variations in posture but consistent movement from standing upright to bending over as if attempting to touch the ground without stepping outside the designated area.\n\nThroughout these actions, there are no significant changes in the environment or lighting conditions, indicating that the entire sequence occurs within a short time frame under similar weather conditions. The camera remains stationary, focusing on capturing the movements of the individual against the backdrop of the running track and surrounding landscape."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/063.mp4",
+        "label": "Negative",
+        "response": "The video depicts a person performing squats in a room with a light-colored floor and walls, a closed dark door, and a piece of furniture that appears to be a desk or table. The individual is wearing white pants and no shirt, showcasing the exercise without any distractions from clothing. As the video progresses, red arrows appear on the screen, likely indicating the direction or form for proper squat execution. These visual cues suggest an instructional purpose, guiding viewers on how to perform the exercise correctly."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/049.mp4",
+        "label": "Negative",
+        "response": "The video shows a person in a black outfit performing a sequence of movements, likely part of a dance or exercise routine. The setting is an indoor space with light-colored walls and wooden flooring, typical of a dance studio. There's a ballet barre on the left side, suggesting that this could be a ballet class or a similar form of movement practice. The individual starts with their arms raised above their head, then transitions through various arm positions before returning to the initial pose. Their posture changes subtly throughout the sequence, indicating dynamic movement rather than static poses."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/089.mp4",
+        "label": "Negative",
+        "response": "The video features a person attempting to jump over an obstacle on a track field, with others observing. The person's performance is evaluated and feedback is provided in the form of text overlays."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/009.mp4",
+        "label": "Negative",
+        "response": "The video shows a woman in an office setting performing squats, with text overlay providing feedback on her form."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/001.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing a squat exercise in a gym. The individual is seen starting with an upright stance, extending their arms outward for balance, and then bending at the knees to lower into a squat position. As they perform the squat, close-up shots highlight specific aspects of the movement, such as the alignment of the upper body, the forward push from the thighs, and the lifting of the heels off the ground. The background features various pieces of gym equipment, indicating that the setting is a well-equipped fitness center."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/040.mp4",
+        "label": "Negative",
+        "response": "The video captures an individual performing a series of squats in a gym setting. The person is seen wearing athletic attire, including a sleeveless top and leggings, while holding weight plates on their shoulders. They exhibit proper form throughout the exercise, with knees bending at a 90-degree angle and maintaining a straight back position. The environment is equipped with various fitness tools and weights, suggesting a well-equipped facility."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/047.mp4",
+        "label": "Negative",
+        "response": "The video shows a man performing a squat with a barbell loaded with weights in a gym. The setting is an indoor fitness center with various exercise equipment visible in the background. The man's attire consists of a white sleeveless top and dark shorts, and he maintains proper form throughout the sequence."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/022.mp4",
+        "label": "Negative",
+        "response": "The video showcases a person in military uniform performing a series of movements. Initially, the individual is seated with their legs extended forward and hands resting on their thighs. As the sequence progresses, they transition through various postures including standing up from this position, raising their arms to their sides, and then standing upright with arms at their sides. The background consists of a paved area with greenery and red banners with white text, providing a formal setting for the demonstration."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/064.mp4",
+        "label": "Negative",
+        "response": "The video features a shirtless male individual performing exercises in an indoor gym. The setting includes various fitness equipment such as weight racks and benches, with a colorful background that includes orange walls and patterned tiles. The person is seen starting with a standing position, then transitioning into a squat motion while extending his arms forward for balance, followed by returning to the initial stance. Subtitles appear at the bottom of each frame, providing instructions or descriptions related to the exercise being demonstrated."
+    },
+    {
+        "video_path": "/root/autodl-tmp/data/falling/095.mp4",
+        "label": "Negative",
+        "response": "The video shows a person performing a physical activity, possibly a form of martial arts or fitness exercise, while another individual observes. The setting is an indoor space with blue and green flooring and wooden walls adorned with boxing gloves. The observer remains stationary throughout the sequence."
+    }
+]

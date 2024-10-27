@@ -1,0 +1,2612 @@
+[
+    {
+        "id": "103",
+        "video_path": "/root/autodl-tmp/data/falling/089.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling089/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling089/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling089/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling089/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling089/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling089/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a person in a casual, home environment. They start standing and then bend forward, seemingly attempting to pick up or interact with something on the floor. Their motion is dynamic, suggesting movement towards an object not visible in the frame. The room has wooden walls and furniture, including a sofa with various items like clothes and cushions scattered around. A television screen is visible in the background displaying what appears to be a video game interface, indicating that the individual might have been engaged in gaming before their current action."
+            }
+        ]
+    },
+    {
+        "id": "108",
+        "video_path": "/root/autodl-tmp/data/falling/106.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling106/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling106/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling106/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling106/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling106/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling106/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling106/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling106/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling106/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling106/image_10.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "A person wearing dark clothing is seen running across the grass near the sidewalk, then stops and seems to be in motion again."
+            }
+        ]
+    },
+    {
+        "id": "109",
+        "video_path": "/root/autodl-tmp/data/falling/115.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling115/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling115/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling115/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling115/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person engaging in chaotic behavior, throwing objects and flipping over furniture within what appears to be a public space or dining area. The sequence captures the individual's escalating actions, leading to disorderly conduct that disrupts the environment."
+            }
+        ]
+    },
+    {
+        "id": "110",
+        "video_path": "/root/autodl-tmp/data/falling/108.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling108/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling108/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling108/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling108/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling108/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling108/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling108/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling108/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling108/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling108/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling108/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling108/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling108/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling108/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling108/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling108/image_16.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a sequence of events on a balcony overlooking a parking lot. Initially, the scene is tranquil with no visible movement. As the frames progress, a person enters from the right side and walks towards the center of the balcony before bending down to pick up an item from the ground. The individual then stands back up, appearing to examine or hold the object closely. Afterward, they walk off-screen to the left. Throughout this sequence, the environment remains consistent with overcast lighting conditions and no significant changes in the surrounding buildings or vehicles in the parking lot."
+            }
+        ]
+    },
+    {
+        "id": "113",
+        "video_path": "/root/autodl-tmp/data/falling/095.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling095/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling095/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling095/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling095/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling095/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling095/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a sequence of events where an individual is seen ascending the stairs, and as they reach the top, they fall backward. The environment appears to be a residential outdoor space with white walls and a green door at the end of the stairway. The camera's angle suggests it was mounted on or near a wall, providing a fisheye view that distorts the edges of the frame."
+            }
+        ]
+    },
+    {
+        "id": "114",
+        "video_path": "/root/autodl-tmp/data/falling/112.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling112/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling112/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling112/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling112/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling112/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling112/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling112/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling112/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling112/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling112/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling112/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling112/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling112/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling112/image_14.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video begins with a person on a wooden deck, attempting to balance and walk in an awkward manner. The individual is wearing dark clothing and sneakers, and the setting includes outdoor furniture and a dog nearby. The scene transitions to show the same person running through a muddy area, maintaining their odd walking posture. Subsequently, the video shifts to a nighttime setting where the individual is seen struggling to sit on a reclining chair, eventually managing to do so but then falling off again."
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "video_path": "/root/autodl-tmp/data/falling/066.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling066/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling066/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling066/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling066/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling066/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling066/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling066/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling066/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling066/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling066/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling066/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling066/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling066/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling066/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling066/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling066/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling066/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling066/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling066/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling066/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling066/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling066/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling066/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling066/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling066/image_25.png",
+            "<image_25>": "/root/autodl-tmp/frames/falling066/image_26.png",
+            "<image_26>": "/root/autodl-tmp/frames/falling066/image_27.png",
+            "<image_27>": "/root/autodl-tmp/frames/falling066/image_28.png",
+            "<image_28>": "/root/autodl-tmp/frames/falling066/image_29.png",
+            "<image_29>": "/root/autodl-tmp/frames/falling066/image_30.png",
+            "<image_30>": "/root/autodl-tmp/frames/falling066/image_31.png",
+            "<image_31>": "/root/autodl-tmp/frames/falling066/image_32.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24>\n<image_25>\n<image_26>\n<image_27>\n<image_28>\n<image_29>\n<image_30>\n<image_31> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a suburban setting with a white bench, multiple mailboxes, and a lawn visible from the porch. A person in dark clothing appears, carrying items and eventually falls onto the ground next to the bench. Another individual in a light-colored shirt then assists the fallen person to their feet."
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "video_path": "/root/autodl-tmp/data/falling/073.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling073/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling073/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling073/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling073/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling073/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling073/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling073/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling073/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling073/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling073/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling073/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling073/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling073/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling073/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling073/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling073/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling073/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling073/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling073/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling073/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling073/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling073/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling073/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling073/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling073/image_25.png",
+            "<image_25>": "/root/autodl-tmp/frames/falling073/image_26.png",
+            "<image_26>": "/root/autodl-tmp/frames/falling073/image_27.png",
+            "<image_27>": "/root/autodl-tmp/frames/falling073/image_28.png",
+            "<image_28>": "/root/autodl-tmp/frames/falling073/image_29.png",
+            "<image_29>": "/root/autodl-tmp/frames/falling073/image_30.png",
+            "<image_30>": "/root/autodl-tmp/frames/falling073/image_31.png",
+            "<image_31>": "/root/autodl-tmp/frames/falling073/image_32.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24>\n<image_25>\n<image_26>\n<image_27>\n<image_28>\n<image_29>\n<image_30>\n<image_31> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a sequence of events where a person is seen outside a brick building, interacting with another individual who has fallen over. The setting appears to be a residential area with houses and greenery visible in the background. The camera captures various angles and moments during their interaction, including close-ups of the individuals' faces and bodies as they move around and talk to each other."
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "video_path": "/root/autodl-tmp/data/falling/051.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling051/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling051/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling051/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling051/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling051/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling051/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling051/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling051/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling051/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling051/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling051/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling051/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling051/image_13.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person walking on a snowy and slushy street, seemingly trying to navigate the slippery conditions. The individual appears to be wearing dark clothing and is captured in various positions as they move across the frame. There are visible footprints and patches of snow scattered around, indicating recent activity or weather conditions that have led to melting and refreezing. In the background, there's a brick building with large glass windows and signage, suggesting a commercial area. Overcast skies suggest cold weather, and the presence of a parked white vehicle adds context to the urban setting."
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "video_path": "/root/autodl-tmp/data/falling/026.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling026/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling026/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling026/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling026/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling026/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling026/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling026/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling026/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling026/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling026/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling026/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling026/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling026/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling026/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling026/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling026/image_16.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a nighttime scene where two individuals are on a residential porch with Christmas lights and plants. One person, wearing a tan jacket and blue jeans, is seen playfully pushing the other, who is in a black top and denim shorts, causing her to fall backward onto the ground. A silver car is parked nearby, and the environment suggests it's late evening or night due to the dark surroundings."
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "video_path": "/root/autodl-tmp/data/falling/048.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling048/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling048/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling048/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling048/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling048/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling048/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling048/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling048/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling048/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling048/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling048/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling048/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling048/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling048/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling048/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling048/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling048/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling048/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling048/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling048/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling048/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling048/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling048/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling048/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling048/image_25.png",
+            "<image_25>": "/root/autodl-tmp/frames/falling048/image_26.png",
+            "<image_26>": "/root/autodl-tmp/frames/falling048/image_27.png",
+            "<image_27>": "/root/autodl-tmp/frames/falling048/image_28.png",
+            "<image_28>": "/root/autodl-tmp/frames/falling048/image_29.png",
+            "<image_29>": "/root/autodl-tmp/frames/falling048/image_30.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24>\n<image_25>\n<image_26>\n<image_27>\n<image_28>\n<image_29> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a nighttime scene captured by a Ring camera, where an individual falls and appears to be injured. The surroundings include illuminated Christmas decorations and the presence of another person who approaches the fallen individual to provide assistance."
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "video_path": "/root/autodl-tmp/data/falling/057.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling057/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling057/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling057/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling057/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling057/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling057/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling057/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling057/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling057/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling057/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling057/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling057/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling057/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling057/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling057/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling057/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling057/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling057/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling057/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling057/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling057/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling057/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling057/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling057/image_24.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in a white t-shirt and red pants attempting to walk on a snow-covered porch. They struggle with their footing, leading to multiple attempts at maintaining balance before eventually falling down."
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "video_path": "/root/autodl-tmp/data/falling/069.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling069/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling069/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling069/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling069/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling069/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling069/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling069/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling069/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling069/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling069/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling069/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling069/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling069/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling069/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling069/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling069/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling069/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling069/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling069/image_19.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a snowy outdoor scene with a wooden deck, a metal-framed pergola, and bare trees in the background. A person enters from the right side of the frame, walks towards the camera, turns around, and exits back out to the left. The surroundings remain consistent throughout the sequence, indicating that this may be part of a continuous loop or a series of similar clips."
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "video_path": "/root/autodl-tmp/data/falling/058.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling058/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling058/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling058/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling058/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling058/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling058/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling058/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling058/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling058/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling058/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling058/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling058/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling058/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling058/image_14.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person walking on a brick pathway towards the camera, with two cars parked in the background. The person is wearing dark clothing and seems to be casually strolling. As they walk closer, their balance appears to waver, leading them to fall forward onto the ground. They land on their back and sit up, seemingly unharmed, before sitting upright for a moment before getting up again. Throughout this sequence, there are humorous emojis overlaid at the top of the screen, suggesting that the situation is intended to be funny."
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "video_path": "/root/autodl-tmp/data/falling/055.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling055/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling055/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling055/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling055/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling055/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling055/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling055/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling055/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling055/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling055/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling055/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling055/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling055/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling055/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling055/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling055/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling055/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling055/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling055/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling055/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling055/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling055/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling055/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling055/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling055/image_25.png",
+            "<image_25>": "/root/autodl-tmp/frames/falling055/image_26.png",
+            "<image_26>": "/root/autodl-tmp/frames/falling055/image_27.png",
+            "<image_27>": "/root/autodl-tmp/frames/falling055/image_28.png",
+            "<image_28>": "/root/autodl-tmp/frames/falling055/image_29.png",
+            "<image_29>": "/root/autodl-tmp/frames/falling055/image_30.png",
+            "<image_30>": "/root/autodl-tmp/frames/falling055/image_31.png",
+            "<image_31>": "/root/autodl-tmp/frames/falling055/image_32.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24>\n<image_25>\n<image_26>\n<image_27>\n<image_28>\n<image_29>\n<image_30>\n<image_31> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a nighttime scene on a porch where two individuals are seen interacting. One person, wearing a plaid shirt and jeans, is standing while the other, in a dark jacket and pants, approaches them from behind. The individual in the dark jacket then pretends to fall dramatically onto the ground, causing visible distress and prompting laughter from the observer. After the faux fall, the individual in the dark jacket stands up and walks away, leaving the observer alone on the porch."
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "video_path": "/root/autodl-tmp/data/falling/056.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling056/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling056/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling056/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling056/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling056/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling056/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling056/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling056/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling056/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling056/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling056/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling056/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling056/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling056/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling056/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling056/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling056/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling056/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling056/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling056/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling056/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling056/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling056/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling056/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling056/image_25.png",
+            "<image_25>": "/root/autodl-tmp/frames/falling056/image_26.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24>\n<image_25> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in dark clothing interacting with red and black chairs on a porch. The setting includes white siding, a wooden deck, and a residential street view visible through the open doorway."
+            }
+        ]
+    },
+    {
+        "id": "50",
+        "video_path": "/root/autodl-tmp/data/falling/033.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling033/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling033/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling033/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling033/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling033/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling033/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling033/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling033/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling033/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling033/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling033/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling033/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling033/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling033/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling033/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling033/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling033/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling033/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling033/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling033/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling033/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling033/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling033/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling033/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling033/image_25.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in white clothing entering the garage, collapsing on the ground, and then being attended to by another individual wearing dark clothing."
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "video_path": "/root/autodl-tmp/data/falling/044.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling044/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling044/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling044/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling044/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling044/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling044/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling044/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling044/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling044/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling044/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling044/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling044/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling044/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling044/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling044/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling044/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling044/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling044/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling044/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling044/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling044/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling044/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling044/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling044/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling044/image_25.png",
+            "<image_25>": "/root/autodl-tmp/frames/falling044/image_26.png",
+            "<image_26>": "/root/autodl-tmp/frames/falling044/image_27.png",
+            "<image_27>": "/root/autodl-tmp/frames/falling044/image_28.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24>\n<image_25>\n<image_26>\n<image_27> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person performing on stage in front of a seated audience. The performers were dressed in different costumes, including gray and pink. The person in gray slipped at the end of the stage, followed by the person in white. The person with red hair also slipped at the end of the stage. The audience was very engaged throughout the entire process, and some people recorded the event. The scene included scaffolding around the performance area and brick floors below the stage"
+            }
+        ]
+    },
+    {
+        "id": "57",
+        "video_path": "/root/autodl-tmp/data/falling/053.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling053/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling053/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling053/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling053/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling053/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling053/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling053/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling053/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling053/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling053/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling053/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling053/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling053/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling053/image_14.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a man in blue attire attempting to board an escalator, but losing his balance and falling onto the moving steps. The sequence captures the moment of loss of footing, the fall, and the individual's struggle to regain control before eventually sliding down the escalator."
+            }
+        ]
+    },
+    {
+        "id": "62",
+        "video_path": "/root/autodl-tmp/data/falling/031.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling031/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling031/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling031/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling031/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling031/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling031/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling031/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling031/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling031/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling031/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling031/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling031/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling031/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling031/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling031/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling031/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling031/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling031/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling031/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling031/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling031/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling031/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling031/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling031/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling031/image_25.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a woman with blonde hair walking towards a garage where a black SUV is parked. She carries a brown purse and some papers or documents in her other hand, and she approaches the vehicle with purpose. The environment includes a residential building with siding and an overhang, as well as greenery such as bushes and trees surrounding the area."
+            }
+        ]
+    },
+    {
+        "id": "68",
+        "video_path": "/root/autodl-tmp/data/falling/021.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling021/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling021/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling021/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling021/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling021/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling021/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling021/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling021/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling021/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling021/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling021/image_11.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a person descending a set of outdoor stairs in what appears to be a residential area. The individual, wearing dark clothing and light-colored shoes, is seen holding onto the railing as they walk down. As the frames progress, the individual continues their descent with slight shifts in posture and position relative to the camera angle."
+            }
+        ]
+    },
+    {
+        "id": "71",
+        "video_path": "/root/autodl-tmp/data/falling/045.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling045/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling045/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling045/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling045/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling045/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling045/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling045/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling045/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling045/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling045/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling045/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling045/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling045/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling045/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling045/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling045/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling045/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling045/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling045/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling045/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling045/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling045/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling045/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling045/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling045/image_25.png",
+            "<image_25>": "/root/autodl-tmp/frames/falling045/image_26.png",
+            "<image_26>": "/root/autodl-tmp/frames/falling045/image_27.png",
+            "<image_27>": "/root/autodl-tmp/frames/falling045/image_28.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24>\n<image_25>\n<image_26>\n<image_27> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person standing on the porch, facing the lawn, with a car in the distance. This person is wearing a brown jacket and dark pants. He seems to be preparing or adjusting things near the edge of the porch, but he doesn't stand steady and falls backwards, then sits on the ground. Then, another person appears from behind, wearing a blue and white outfit, approaching the scene"
+            }
+        ]
+    },
+    {
+        "id": "72",
+        "video_path": "/root/autodl-tmp/data/falling/050.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling050/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling050/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling050/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling050/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling050/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling050/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling050/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling050/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling050/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling050/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling050/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling050/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling050/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling050/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling050/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling050/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling050/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling050/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling050/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling050/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling050/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling050/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling050/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling050/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling050/image_25.png",
+            "<image_25>": "/root/autodl-tmp/frames/falling050/image_26.png",
+            "<image_26>": "/root/autodl-tmp/frames/falling050/image_27.png",
+            "<image_27>": "/root/autodl-tmp/frames/falling050/image_28.png",
+            "<image_28>": "/root/autodl-tmp/frames/falling050/image_29.png",
+            "<image_29>": "/root/autodl-tmp/frames/falling050/image_30.png",
+            "<image_30>": "/root/autodl-tmp/frames/falling050/image_31.png",
+            "<image_31>": "/root/autodl-tmp/frames/falling050/image_32.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24>\n<image_25>\n<image_26>\n<image_27>\n<image_28>\n<image_29>\n<image_30>\n<image_31> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captured a series of movements of a person on a modern looking lane next to a well maintained lawn. Initially, people saw the person standing near the entrance of a house, whose vertical elements resemble pillars or parts of architectural design. In the background, a white car was parked, and the environment looked residential and tidy. As the video progressed, the person seemed to slip under his feet, but after multiple attempts, he still lost his balance and fell down the stairs. Then, the person stood upright again. Throughout the entire process, there was no significant change in the position of the surrounding environment or vehicles. The overall setting remained consistent, emphasizing a peaceful atmosphere to estimate the scene. The camera maintains a stable overhead view throughout the entire observation activity, providing clear visibility around the lane, lawn, and personal behavior. "
+            }
+        ]
+    },
+    {
+        "id": "73",
+        "video_path": "/root/autodl-tmp/data/falling/065.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling065/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling065/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling065/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling065/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling065/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling065/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling065/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling065/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling065/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling065/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling065/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling065/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling065/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling065/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling065/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling065/image_16.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person walking on the sidewalk and tripping over something spiky, landing face down. Another individual walks by and notices the fall, then another person approaches to check on the fallen individual."
+            }
+        ]
+    },
+    {
+        "id": "76",
+        "video_path": "/root/autodl-tmp/data/falling/011.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling011/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling011/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling011/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling011/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling011/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling011/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling011/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling011/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling011/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling011/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling011/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling011/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling011/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling011/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling011/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling011/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling011/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling011/image_18.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in an indoor environment, which could be a store or showroom, with various items such as chairs and Christmas trees inside. The person can be seen interacting with an orange spherical object that appears to be either a ball or a large toy. At first, the person stands upright, bends towards the ball, swings their arm backwards as if ready to throw it, and then moves forward to indicate that they have released the object. Finally, the ball leaves the frame, and the person trips themselves in the direction the ball left. Throughout the process, the environment remains stationary, and there is no significant change in lighting or background activity"
+            }
+        ]
+    },
+    {
+        "id": "78",
+        "video_path": "/root/autodl-tmp/data/falling/037.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling037/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling037/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling037/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling037/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling037/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling037/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling037/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling037/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling037/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling037/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling037/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling037/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling037/image_13.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in dark clothing shoveling snow from a concrete pathway. The individual progresses from standing, to bending over the shovel, and finally to lying on their back with legs spread apart as if striking a yoga pose or falling."
+            }
+        ]
+    },
+    {
+        "id": "83",
+        "video_path": "/root/autodl-tmp/data/falling/072.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling072/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling072/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling072/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling072/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling072/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling072/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling072/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling072/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling072/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling072/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling072/image_11.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a sequence of frames from a fisheye lens perspective on a covered porch. Initially, the porch is empty with an American flag and some outdoor furniture visible. A person enters the frame, wearing dark clothing, and appears to be in motion as if they have just fallen or are about to fall. The individual then exits the frame, leaving the porch momentarily unoccupied again. Subsequently, another person in a red shirt enters the scene, standing near the center of the porch and looking towards the camera before also exiting the frame."
+            }
+        ]
+    },
+    {
+        "id": "88",
+        "video_path": "/root/autodl-tmp/data/falling/039.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling039/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling039/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling039/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling039/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling039/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling039/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling039/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling039/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling039/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling039/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling039/image_11.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person interacting with a dog on the porch, and then another person appears. He steps down the stairs and loses balance"
+            }
+        ]
+    },
+    {
+        "id": "89",
+        "video_path": "/root/autodl-tmp/data/falling/046.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling046/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling046/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling046/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling046/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling046/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling046/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling046/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling046/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling046/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling046/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling046/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling046/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling046/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling046/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling046/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling046/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/falling046/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/falling046/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/falling046/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/falling046/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/falling046/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/falling046/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/falling046/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/falling046/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/falling046/image_25.png",
+            "<image_25>": "/root/autodl-tmp/frames/falling046/image_26.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24>\n<image_25> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a red SUV with its hatchback open, parked outside a residential house. A person is seen climbing onto the vehicle's roof from inside the garage or porch area of the house. The individual then stands on the roof and appears to be interacting with someone in the SUV, possibly placing an item into the trunk."
+            }
+        ]
+    },
+    {
+        "id": "90",
+        "video_path": "/root/autodl-tmp/data/falling/067.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling067/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling067/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling067/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling067/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling067/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling067/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling067/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling067/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling067/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling067/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling067/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling067/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling067/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling067/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling067/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/falling067/image_16.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a person in a red top and dark shorts attempting to walk on a wet, pebbled pathway near a bush. The individual appears unsteady, eventually losing balance and falling onto the ground. As they recover, they stand up and begin walking again but are seen stumbling multiple times before finally making it past the area without further incident."
+            }
+        ]
+    },
+    {
+        "id": "91",
+        "video_path": "/root/autodl-tmp/data/falling/054.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling054/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling054/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling054/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling054/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling054/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling054/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling054/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling054/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling054/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling054/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling054/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling054/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling054/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling054/image_14.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a sequence where an individual, wearing a blue top and beige pants, is seen riding down an escalator. The person appears to lose their balance and falls onto the escalator steps in a prone position with limbs flailing. Despite the fall, no other individuals are observed reacting or intervening. The surrounding area features potted plants, indicating an indoor setting like a mall or public building."
+            }
+        ]
+    },
+    {
+        "id": "95",
+        "video_path": "/root/autodl-tmp/data/falling/077.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling077/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling077/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling077/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling077/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling077/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling077/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling077/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling077/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling077/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling077/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/falling077/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/falling077/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/falling077/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/falling077/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/falling077/image_15.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person standing next to a small motorcycle in front of a garage. The individual is seen attempting to start the motorcycle, and then mounting it. However, they lose balance and fall off the bike onto the concrete ground."
+            }
+        ]
+    },
+    {
+        "id": "265",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/52.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying52/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying52/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying52/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying52/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying52/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying52/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/lying52/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/lying52/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/lying52/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/lying52/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/lying52/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/lying52/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/lying52/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/lying52/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/lying52/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/lying52/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/lying52/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/lying52/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/lying52/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/lying52/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/lying52/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/lying52/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/lying52/image_23.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a sequence of children participating in an exercise or physical activity on purple and orange mats laid out on a wooden sports floor. The participants, predominantly young boys, are seen lying down with their legs extended, engaging in synchronized movements that suggest they may be following the instructions of an unseen instructor. The attire of the children varies, with some wearing shorts and t-shirts while others sport athletic wear. One child is notably dressed in a green shirt and blue shorts, distinguishable from the rest. Throughout the video, the environment remains consistent, characterized by the indoor setting with visible lines on the floor indicative of a gymnasium or similar facility. No objects other than the exercise mats and a single yellow ball are observed in the immediate vicinity of the participants."
+            }
+        ]
+    },
+    {
+        "id": "266",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/56.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying56/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying56/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying56/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying56/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying56/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying56/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/lying56/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/lying56/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/lying56/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/lying56/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/lying56/image_11.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person performing various actions on a bed in a modern, minimalist room with white walls and flooring. The individual is dressed in black clothing and beige slippers. They start by bending over the edge of the bed, then sit down, followed by lying flat across the mattress. Afterward, they roll onto their side and eventually get up to stand beside the bed."
+            }
+        ]
+    },
+    {
+        "id": "292",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/51.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying51/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying51/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying51/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying51/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying51/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying51/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/lying51/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/lying51/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/lying51/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/lying51/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/lying51/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/lying51/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/lying51/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/lying51/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/lying51/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/lying51/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/lying51/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/lying51/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/lying51/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/lying51/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/lying51/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/lying51/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/lying51/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/lying51/image_24.png",
+            "<image_24>": "/root/autodl-tmp/frames/lying51/image_25.png",
+            "<image_25>": "/root/autodl-tmp/frames/lying51/image_26.png",
+            "<image_26>": "/root/autodl-tmp/frames/lying51/image_27.png",
+            "<image_27>": "/root/autodl-tmp/frames/lying51/image_28.png",
+            "<image_28>": "/root/autodl-tmp/frames/lying51/image_29.png",
+            "<image_29>": "/root/autodl-tmp/frames/lying51/image_30.png",
+            "<image_30>": "/root/autodl-tmp/frames/lying51/image_31.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23>\n<image_24>\n<image_25>\n<image_26>\n<image_27>\n<image_28>\n<image_29>\n<image_30> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a sequence of children participating in an exercise session on mats placed on a gymnasium floor marked with lines. The children, wearing casual sports attire such as t-shirts and shorts, are engaged in physical activities that involve lying down and performing movements under the supervision of adults who appear to be instructors or coaches. The setting is indoors, likely within a school or community center gym, illuminated by artificial lighting which casts soft shadows on the mat surfaces. The colors in the scene range from the vibrant hues of the children's clothing to the muted tones of the gym flooring and mats."
+            }
+        ]
+    },
+    {
+        "id": "430",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/057.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting057/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting057/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting057/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting057/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/squatting057/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/squatting057/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/squatting057/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/squatting057/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/squatting057/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/squatting057/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/squatting057/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/squatting057/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/squatting057/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/squatting057/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/squatting057/image_15.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in a purple workout outfit performing squats against a plain white background. The individual transitions smoothly through various stages of the squat, maintaining proper form and posture throughout the exercise routine."
+            }
+        ]
+    },
+    {
+        "id": "434",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/003.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting003/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting003/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting003/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting003/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/squatting003/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/squatting003/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/squatting003/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/squatting003/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/squatting003/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/squatting003/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/squatting003/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/squatting003/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/squatting003/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/squatting003/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/squatting003/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/squatting003/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/squatting003/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/squatting003/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/squatting003/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/squatting003/image_20.png",
+            "<image_20>": "/root/autodl-tmp/frames/squatting003/image_21.png",
+            "<image_21>": "/root/autodl-tmp/frames/squatting003/image_22.png",
+            "<image_22>": "/root/autodl-tmp/frames/squatting003/image_23.png",
+            "<image_23>": "/root/autodl-tmp/frames/squatting003/image_24.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19>\n<image_20>\n<image_21>\n<image_22>\n<image_23> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video showcases an individual performing a squat exercise with a loaded barbell in a gym setting. The person, wearing grey shorts and black athletic shoes, starts by standing upright, gripping the barbell behind their necks, and then proceeds to lower themselves into a squat position, extending their legs fully at the bottom before returning to the starting position. Throughout the sequence, the individual maintains proper form and demonstrates control over the weight throughout the repetitions."
+            }
+        ]
+    },
+    {
+        "id": "468",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/068.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting068/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting068/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting068/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting068/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/squatting068/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/squatting068/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/squatting068/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/squatting068/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/squatting068/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/squatting068/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/squatting068/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/squatting068/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/squatting068/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/squatting068/image_14.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "In the video, a person is wearing dark sportswear with a white accent and Nike logo, standing against a background decorated with stylized hands and repetitive flame designs. The person is initially seen from the side, then turns around and crouches forward, wearing headphones around their necks. Throughout the process, they place a microphone near their mouth, indicating that they may be speaking or about to speak. The scene seems to be indoors, with controlled lighting casting soft shadows behind the subject"
+            }
+        ]
+    },
+    {
+        "id": "492",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/040.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting040/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting040/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting040/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting040/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/squatting040/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/squatting040/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/squatting040/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/squatting040/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/squatting040/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/squatting040/image_10.png",
+            "<image_10>": "/root/autodl-tmp/frames/squatting040/image_11.png",
+            "<image_11>": "/root/autodl-tmp/frames/squatting040/image_12.png",
+            "<image_12>": "/root/autodl-tmp/frames/squatting040/image_13.png",
+            "<image_13>": "/root/autodl-tmp/frames/squatting040/image_14.png",
+            "<image_14>": "/root/autodl-tmp/frames/squatting040/image_15.png",
+            "<image_15>": "/root/autodl-tmp/frames/squatting040/image_16.png",
+            "<image_16>": "/root/autodl-tmp/frames/squatting040/image_17.png",
+            "<image_17>": "/root/autodl-tmp/frames/squatting040/image_18.png",
+            "<image_18>": "/root/autodl-tmp/frames/squatting040/image_19.png",
+            "<image_19>": "/root/autodl-tmp/frames/squatting040/image_20.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09>\n<image_10>\n<image_11>\n<image_12>\n<image_13>\n<image_14>\n<image_15>\n<image_16>\n<image_17>\n<image_18>\n<image_19> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures an individual performing a series of squats in a gym setting. The person is seen wearing athletic attire, including a sleeveless top and leggings, while holding weight plates on their shoulders. They exhibit proper form throughout the exercise, with knees bending at a 90-degree angle and maintaining a straight back position. The environment is equipped with various fitness tools and weights, suggesting a well-equipped facility."
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "video_path": "/root/autodl-tmp/data/falling/076.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling076/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling076/image_02.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a moment where an elderly individual is seen walking and then falling. The setting appears to be an outdoor area adjacent to a building with large windows and doors, possibly a residential or community space. There are several pairs of shoes neatly arranged outside the entrance, suggesting that this might be a common gathering spot or a place where people come and go frequently. The ground seems to be concrete, and there's no visible grass or plants in the immediate vicinity. The lighting suggests it could be daytime. As the person walks, their posture changes from upright to bent forward, indicating a loss of balance before they fall to the ground."
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "video_path": "/root/autodl-tmp/data/falling/052.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling052/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling052/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling052/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling052/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling052/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling052/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling052/image_07.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video depicts a snowy residential area where an adult and a child, dressed in winter clothing, are walking on a path covered with snow. The adult appears to be guiding the child as they navigate through the slippery conditions. A pickup truck is parked in the driveway behind them. The scene suggests caution due to the potential for slipping, which is emphasized by the overlaid text warning viewers about the slippery conditions."
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "video_path": "/root/autodl-tmp/data/falling/042.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling042/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling042/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling042/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling042/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling042/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling042/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling042/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling042/image_08.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a person standing in a room with a textured ceiling, then attempting to walk while looking down. The individual stumbles and falls backward onto the floor, with their arms flailing in an attempt to break the fall. The room is furnished with a bed covered by a dark-patterned curtain, a chair, and other household items."
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "video_path": "/root/autodl-tmp/data/falling/016.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling016/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling016/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling016/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling016/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a person walking away from the camera on a snowy path, dressed in a white puffy coat and dark pants. They are moving towards an area enclosed by a green metal fence, beyond which there appears to be some activity or structures, though details are not clear due to the distance and snowfall. The environment is overcast with a blanket of snow covering the ground and surfaces, indicating cold weather conditions. There's a noticeable contrast between the bright white of the coat and the muted tones of the surroundings."
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "video_path": "/root/autodl-tmp/data/falling/015.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling015/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling015/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling015/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling015/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling015/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling015/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling015/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling015/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling015/image_09.png",
+            "<image_09>": "/root/autodl-tmp/frames/falling015/image_10.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08>\n<image_09> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video depicts a person in a blue sweater and grey pants performing actions that appear to be part of a staged scenario. The individual is seen interacting with a red Christmas tree-shaped object, initially standing upright, then toppling over onto its side. The setting seems to be an indoor environment with various items scattered around, including furniture and equipment."
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "video_path": "/root/autodl-tmp/data/falling/062.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling062/image_01.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a group of people standing outside, likely in an area that experiences cold weather given the presence of snow on the ground. The individuals are dressed warmly with coats and boots, suggesting they are prepared for winter conditions. Some appear to be waiting or queuing, as indicated by their positioning and orientation towards what seems to be a building entrance or window. The environment is dimly lit, possibly due to overcast skies or the time of day being evening or early morning. There's no visible interaction between the people; they maintain a distance from each other, which could imply social distancing measures or simply personal space preference."
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "video_path": "/root/autodl-tmp/data/falling/070.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling070/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling070/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling070/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling070/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in a red top and dark pants walking on a rooftop with a patterned fence, wooden slats, and some outdoor furniture. The sky is overcast, and the surrounding environment includes other rooftops and distant hills or mountains."
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "video_path": "/root/autodl-tmp/data/falling/002.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling002/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling002/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling002/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video depicts a person in dark clothing with a cane, attempting to navigate an uneven and damaged pavement. The individual seems to be struggling, as evidenced by their cautious steps and the use of the cane for support. Suddenly, the person loses balance and falls forward onto the ground, landing on their back near a manhole cover. There is no clear indication of why they fell or what caused them to lose stability."
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "video_path": "/root/autodl-tmp/data/falling/075.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling075/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling075/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling075/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling075/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling075/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling075/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling075/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling075/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/falling075/image_09.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person shoveling snow off a porch or walkway, with several individuals walking and interacting in the background. The snowy environment suggests cold weather conditions."
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "video_path": "/root/autodl-tmp/data/falling/034.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling034/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling034/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling034/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling034/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling034/image_05.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in a green jacket and dark pants walking up icy stairs, slipping and falling. The text overlays suggest the family is experiencing difficulty with the icy conditions."
+            }
+        ]
+    },
+    {
+        "id": "201",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/050.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying050/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying050/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying050/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying050/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying050/image_05.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person lying on a couch, holding and looking at a mobile device. The environment is dimly lit with warm tones, suggesting it might be evening or night. The individual appears relaxed, possibly engaging in leisure activities such as browsing the internet, reading, or watching content on their phone."
+            }
+        ]
+    },
+    {
+        "id": "202",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/027.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying027/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying027/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying027/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying027/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying027/image_05.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "A person is lying on the floor, seemingly asleep or resting."
+            }
+        ]
+    },
+    {
+        "id": "203",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/67.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying67/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying67/image_02.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video appears to be a segment from an exercise or fitness instructional series, focusing on the proper technique for performing a specific core-strengthening movement. The individual in the video is demonstrating how to execute this move correctly by showing the correct form and posture required.\n\nIn the first frame, the person is seen sitting with their back against a dark background, wearing blue shorts. They are positioned with one leg bent and the other extended, holding their torso upright while keeping their head and shoulders close together.\n\nBy the second frame, the person has transitioned into a more advanced position, lying down on their side with their legs bent and feet flat on the ground. Their arms are placed under their head, supporting their upper body as they lift their hips off the floor, creating a bridge-like shape with their body.\n\nThroughout both frames, there is text overlay at the bottom of the screen providing additional guidance in English and Chinese, suggesting that the viewer can adjust their pelvis during the exercise for better positioning. This indicates that the video aims to educate viewers on the importance of proper alignment and technique in physical exercises."
+            }
+        ]
+    },
+    {
+        "id": "204",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/58.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying58/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying58/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying58/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying58/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying58/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying58/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/lying58/image_07.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a sequence of interactions among individuals on what appears to be the sidelines of a sports event, likely football (soccer) given the context and attire. Initially, three men are seen engaging in conversation; two are wearing matching tracksuits with one in a high-visibility vest, while the third is dressed in a dark coat.\n\nAs the interaction progresses, the man in the high-visibility vest seems to gesture emphatically, possibly making a point or giving instructions. In the next moment, he extends his hand towards another individual who is now lying prone on the ground, suggesting an exchange involving physical contact such as a handshake or a pat on the back. This action draws attention from the surrounding figures.\n\nThroughout these exchanges, other individuals remain stationary, observing the unfolding scenario without direct involvement. Their presence adds to the atmosphere of a paused game or break in play, common in sports events for discussions between coaches, players, or officials.\n\nThe setting remains consistent throughout the frames, reinforcing the continuity of the scene. The camera stays fixed, focusing on this particular group, which allows viewers to concentrate on the dynamics between the individuals involved."
+            }
+        ]
+    },
+    {
+        "id": "205",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/025.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying025/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying025/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying025/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying025/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying025/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying025/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person lying on a bed, reading a book with a cat resting beside them. The setting is calm and cozy, with the person's actions being relaxed as they engage in their activity."
+            }
+        ]
+    },
+    {
+        "id": "206",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/045.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying045/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying045/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying045/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying045/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying045/image_05.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video features a person lying down on a red couch in a warmly lit room with yellow walls and decorative elements. The individual is initially seen reclining, holding a smartphone, before transitioning to sitting up while still engaged with the device."
+            }
+        ]
+    },
+    {
+        "id": "207",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/013.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying013/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying013/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying013/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying013/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying013/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying013/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video features an individual performing a series of sit-up exercises on a yoga mat placed on a balcony. The person is dressed in black pants and is shirtless, revealing their upper body as they engage in the workout. Throughout the sequence, the individual transitions through various stages of the exercise: starting with a seated position, lifting their legs towards their torso, bending at the waist to touch their toes, and then returning to the initial posture before repeating the cycle. The background showcases a cityscape with numerous buildings under daylight conditions, indicating that the activity takes place during the day. The focus remains solely on the individual's physical movements without any distractions or additional objects within the frame."
+            }
+        ]
+    },
+    {
+        "id": "210",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/011.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying011/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying011/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying011/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying011/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying011/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying011/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person performing exercises on a green exercise mat in an outdoor setting with trees and a fence visible in the background. The individual is dressed in athletic wear, including an orange sleeveless top and black leggings with yellow text on them. They begin by lying flat on their back, then transition to a seated position while holding their knees, and finally return to the prone position for more exercises."
+            }
+        ]
+    },
+    {
+        "id": "211",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/024.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying024/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying024/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying024/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying024/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying024/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying024/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "A person is lounging on a green couch with their legs crossed and feet resting on the armrest. They are wearing dark knee-high boots, black leggings or tights, and a yellow knitted sweater. A red book lies open in front of them, suggesting they may have been reading. The background features a well-lit room with a bookshelf filled with books and other items, creating a cozy atmosphere."
+            }
+        ]
+    },
+    {
+        "id": "213",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/016.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying016/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying016/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying016/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying016/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying016/image_05.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "a sequence of frames depicting a group of individuals, likely in an outdoor setting, engaged in some form of activity or conversation. The person closest to the camera is wearing a light pink top and dark pants, with their hair tied back. They appear to be sitting on a blue surface, possibly a bench or platform. In the background, there are other individuals, one of whom is wearing a white hoodie and appears to be holding something, possibly a phone. A green dumpster can also be seen in the background, suggesting that this scene might be taking place near a building or in a public area."
+            }
+        ]
+    },
+    {
+        "id": "406",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/052.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting052/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting052/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting052/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting052/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows that two people are playing play badminton on the indoor court. They actively participate in the game, walk to both sides, bend down with one knee and touch their feet with their hands. The court is equipped with a net, and you can see all kinds of things around, such as shoes and benches."
+            }
+        ]
+    },
+    {
+        "id": "408",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/042.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting042/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting042/image_02.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video features a person performing a fitness routine in an indoor setting, possibly a studio or gym. The individual is dressed in workout attire, consisting of gray leggings and black shoes, with no shirt on, showcasing their upper body. They begin by standing upright facing the camera, then proceed to execute a series of movements that include squatting down into a lunge position and returning to an upright stance. The environment is well-lit with natural light coming from windows behind the person, and there's a mirror reflecting part of the room, which helps viewers see the full range of motion during the exercise."
+            }
+        ]
+    },
+    {
+        "id": "409",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/016.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting016/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting016/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting016/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a person performing a squat in an indoor setting, likely within an office or similar environment. The individual is dressed in athletic attire, consisting of a patterned top and black leggings, paired with sports shoes. They begin standing upright before bending their knees to lower into a squat position, maintaining a straight back throughout the exercise. The background features a neutral-colored wall adorned with a piece of abstract artwork depicting floral elements. As the person completes the squat, the overall scene suggests a focus on fitness or physical training, with the person demonstrating proper form during the exercise."
+            }
+        ]
+    },
+    {
+        "id": "410",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/015.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting015/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting015/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting015/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a person standing in an interior space with gray walls and a piece of wall art, then squatting down on a white circular mat. The individual is wearing a green top and blue jeans."
+            }
+        ]
+    },
+    {
+        "id": "411",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/062.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting062/image_01.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person performing a squat in an indoor setting, likely a dance or fitness studio given the spacious area and mirrored walls. The individual is shirtless, wearing dark pants and bright red sneakers, which suggests that they are engaged in some form of physical exercise or training. The room appears to be well-lit with natural light coming from windows not visible in the frame, indicating it could be daytime. There are no other people or objects in the immediate vicinity, focusing all attention on the individual's movement."
+            }
+        ]
+    },
+    {
+        "id": "413",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/002.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting002/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting002/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting002/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a woman performing squats in an office cubicle."
+            }
+        ]
+    },
+    {
+        "id": "414",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/066.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting066/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting066/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting066/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video showcases an individual performing a squat exercise in a well-equipped gym. The person is dressed in athletic attire, including a white top and gray leggings, with white sneakers. They start by standing upright and then bend their knees to lower into a squat position, maintaining balance and form throughout the movement. The background reveals various fitness equipment such as weight machines and free weights, indicating that this setting is designed for strength training and other forms of physical exercise."
+            }
+        ]
+    },
+    {
+        "id": "420",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/034.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting034/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting034/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting034/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a sequence of movements performed by an individual in a room with light blue walls and a white shelf against the wall. The person, dressed in black athletic attire consisting of a t-shirt, shorts, and sneakers, starts standing upright with arms extended outward to the sides. They then transition into a squat position before shifting their weight onto one leg while extending the other behind them for balance. Finally, they return to a standing position, completing the movement cycle."
+            }
+        ]
+    },
+    {
+        "id": "421",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/051.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting051/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting051/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting051/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting051/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/squatting051/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/squatting051/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in a green t-shirt performing exercises or movements while two other individuals observe. The observer on the left is wearing a black cap, dark-colored t-shirt with white lettering, and light-colored pants, while the one on the right is dressed in a gray long-sleeved top and dark pants. They are all standing on a green turf-like floor within an indoor gym setting that features weight racks and mirrors along the wall."
+            }
+        ]
+    },
+    {
+        "id": "422",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/026.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting026/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting026/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting026/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting026/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/squatting026/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/squatting026/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in military uniform performing a series of actions in an open paved area with trees and buildings in the background. The sequence includes standing at attention, saluting, and squatting while maintaining a disciplined posture"
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "video_path": "/root/autodl-tmp/data/falling/014.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling014/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling014/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling014/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling014/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling014/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling014/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling014/image_07.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a sequence of events in what appears to be a modern commercial kitchen or break room with stainless steel appliances and round tables. Initially, an individual is seen standing near the counter area, seemingly engaged in an activity that involves reaching towards something on the counter. As time progresses, the person's actions become more pronounced; they lean forward over the counter, extending their arms outward as if to grab or push something. The intensity of their posture suggests a sudden shift in their movement, culminating in them collapsing onto one side of the table. Throughout this sequence, the camera remains static, providing a clear view of the unfolding action without any noticeable changes in perspective or zooming."
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "video_path": "/root/autodl-tmp/data/falling/038.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling038/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling038/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling038/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person on a wooden porch, and then the person suddenly falls down the stairs"
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "video_path": "/root/autodl-tmp/data/falling/010.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling010/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling010/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling010/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling010/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling010/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling010/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling010/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/falling010/image_08.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a sequence of events in an indoor corridor. Initially, a person is seen walking alone with their dog on a leash. As the video progresses, another individual enters from behind and appears to interact with the first person and the dog. The second person's actions suggest they may be attempting to take control or intervene in some manner. Eventually, the interaction escalates to physical confrontation, where one person seems to push the other against the wall. The dog remains close by throughout these events."
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "video_path": "/root/autodl-tmp/data/falling/023.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling023/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling023/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling023/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling023/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video depicts a person in dark clothing walking on what appears to be a wet, reflective surface, possibly after rain. The individual is captured from the side as they move away from the camera's viewpoint. The environment suggests an outdoor setting with elements like a wooden fence and pebbles or gravel visible near a structure that could be part of a residential area."
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "video_path": "/root/autodl-tmp/data/falling/019.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling019/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling019/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling019/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling019/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling019/image_05.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a snowy outdoor setting with a fence and a paved pathway. A person in dark clothing is seen walking towards the camera, and as they approach, they perform a sudden, high kick that causes them to lose their balance and fall onto the icy ground. Another individual wearing a black coat appears in the background, watching the event unfold."
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "video_path": "/root/autodl-tmp/data/falling/005.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling005/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling005/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling005/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in dark clothing walking on a snowy porch, then tripping and falling onto the ground. The surrounding area appears to be covered in snow, with trees and houses visible in the background."
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "video_path": "/root/autodl-tmp/data/falling/004.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling004/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling004/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling004/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling004/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling004/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling004/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/falling004/image_07.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video depicts a staged scene in what appears to be a press conference setting with two individuals standing behind podiums. As the video progresses, one individual collapses onto the floor while the other remains standing and seemingly reacts with concern or surprise."
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "video_path": "/root/autodl-tmp/data/falling/020.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling020/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling020/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling020/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling020/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person wearing a white puffy jacket and dark pants walking on an icy, snow-covered pathway. The surroundings include a green metal fence, some buildings in the background, and other individuals further down the path."
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "video_path": "/root/autodl-tmp/data/falling/017.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling017/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling017/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling017/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling017/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling017/image_05.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video depicts two individuals standing near a green fence in an outdoor setting covered with snow. The person on the left is wearing a blue jacket and dark pants, while the person on the right is dressed in a green jacket and black pants. They seem to be engaged in a conversation or activity involving the fence. As the video progresses, both individuals move closer to the camera, and the person on the right appears to be performing a jumping motion, possibly attempting a flip or somersault. The surroundings suggest it's winter due to the snow-covered ground and bare trees in the background."
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "video_path": "/root/autodl-tmp/data/falling/003.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/falling003/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/falling003/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/falling003/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/falling003/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/falling003/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/falling003/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a sequence of events on an outdoor wooden deck, where a red ladder is leaning against the side of a white house. Initially, the deck appears calm with scattered leaves and no visible human activity. As time progresses, a person wearing casual attire enters the frame, moving swiftly towards the right. The individual's actions suggest they are either climbing or attempting to climb down the ladder in a hurry, as indicated by their dynamic posture and the blurred motion around them. Their movement causes some disarray on the deck, including the scattering of more leaves. Eventually, the person seems to lose balance or control and falls off the edge of the deck onto the ground below, which is not visible in the footage. Throughout this event, the camera remains static, providing a continuous view from inside the house looking out at the scene on the deck."
+            }
+        ]
+    },
+    {
+        "id": "214",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/002.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying002/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying002/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying002/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying002/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows two individuals in a sports setting, possibly engaging in some form of physical exercise or training. One person is seated on the ground with their back against the other individual, who is lying down and performing abdominal exercises by raising their legs up and down while holding onto their own ankles. The background features an outdoor environment with buildings, a fence, and what appears to be a soccer field with players in the distance."
+            }
+        ]
+    },
+    {
+        "id": "217",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/043.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying043/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying043/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying043/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying043/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying043/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying043/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/lying043/image_07.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person lounging on a couch, surrounded by colorful clothes and using their smartphone. The room has a cozy atmosphere with a clock on the wall indicating it is 10:10."
+            }
+        ]
+    },
+    {
+        "id": "218",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/61.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying61/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying61/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying61/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying61/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video starts with a person in dark pajamas standing beside an unmade bed, which has a wooden headboard and is positioned near a window allowing natural light to enter the room. The individual then sits on the edge of the mattress, placing one foot on the ground while holding onto the other leg, indicating preparation for action. Subsequently, the person launches into a dynamic movement, kicking their legs upward and falling backward onto the mattress, suggesting they are testing or demonstrating the comfort or flexibility of the mattress."
+            }
+        ]
+    },
+    {
+        "id": "219",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/022.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying022/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying022/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying022/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying022/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person lying on a bed with a camouflage-patterned outfit. Throughout the video, the individual is seen in various positions, such as lying flat, sitting up, or raising their arms above their head."
+            }
+        ]
+    },
+    {
+        "id": "221",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/010.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying010/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying010/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying010/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying010/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying010/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying010/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/lying010/image_07.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a person engaging in a workout routine on an outdoor track. Initially seated with hands covering their face, the individual transitions to lying down on a purple exercise mat, performing abdominal exercises, and then returns to sitting position. The setting is sunny with shadows cast on the ground, suggesting it's either morning or late afternoon."
+            }
+        ]
+    },
+    {
+        "id": "222",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/001.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying001/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying001/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying001/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying001/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures an individual performing a series of exercises on a red mat in what appears to be a gym setting. Initially, the person is lying flat on their back with hands behind the head and legs extended upwards, possibly engaging in a core-strengthening exercise like a crunch or leg raise. As the video progresses, the individual transitions into a seated position, still on the red mat, with a noticeable change in posture indicating movement from the previous state. Their arms are bent at the elbows, and they seem to be either preparing for another set of movements or recovering from the previous ones. Throughout the sequence, there is no significant camera movement; it remains static, providing a clear view of the person's actions against the backdrop of the gym environment. The lighting is consistent, and the focus stays on the subject without any distractions from the background elements."
+            }
+        ]
+    },
+    {
+        "id": "223",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/026.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying026/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying026/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying026/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying026/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying026/image_05.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "A person wearing a red shirt and black shorts is sitting on the floor, using a smartphone. To their right, there's another individual lying down with a white dog resting its head on their lap. In front of them, two green mugs are placed on the wooden floor. The room has natural lighting coming from an unseen source, casting soft shadows around."
+            }
+        ]
+    },
+    {
+        "id": "225",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/048.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying048/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying048/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying048/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying048/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person lying on a sofa, using their smartphone. The setting appears to be a cozy indoor environment with some greenery in the background."
+            }
+        ]
+    },
+    {
+        "id": "226",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/023.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying023/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying023/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying023/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying023/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying023/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying023/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/lying023/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/lying023/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/lying023/image_09.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person performing a specific exercise on a bed. The individual is wearing pink pants and a white long-sleeved top, lying down with their arms extended above the head in the initial frame. As the frames progress, they demonstrate a movement where they bring their knees towards their chest while keeping their feet flat on the bed. This action is repeated several times throughout the sequence. The background remains consistent, featuring a patterned headboard and a wall-mounted object that resembles a small bird or insect. The room appears to be well-lit, likely from natural light."
+            }
+        ]
+    },
+    {
+        "id": "228",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/lying/57.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/lying57/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/lying57/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/lying57/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/lying57/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/lying57/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/lying57/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/lying57/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/lying57/image_08.png",
+            "<image_08>": "/root/autodl-tmp/frames/lying57/image_09.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07>\n<image_08> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video begins with a static shot of an empty mattress on display, followed by the entry and actions of a person interacting with the mattress. The individual is seen sitting down, lying back, and eventually sitting up again while making gestures that suggest they are testing the comfort or features of the mattress. Throughout this sequence, the environment remains consistent, focusing solely on the mattress and its interaction with the person."
+            }
+        ]
+    },
+    {
+        "id": "423",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/014.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting014/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting014/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting014/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person attempting to balance on a white, round object that resembles a skateboard or a balancing board. They are dressed in casual attire consisting of a patterned shirt and dark pants, with sneakers. As the video progresses, the individual's posture changes from standing upright to bending forward, indicating they might be trying to maintain their balance while moving or adjusting their position on the object."
+            }
+        ]
+    },
+    {
+        "id": "424",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/048.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting048/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting048/image_02.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video captures a moment from a badminton match, showcasing the intense focus and athleticism of the players. It begins with an overview of the court, highlighting the vibrant colors of the playing surface against the darker surroundings. The scoreboard in the background indicates that one player is leading by two points.\n\nAs the video progresses, we see a dynamic play unfold; a shuttlecock is in motion across the net, suggesting a rally between the two competitors. One player, dressed in a contrasting outfit to his opponent, is seen in squatting down to hit the shuttlecock, possibly having just hit or about to hit the shuttlecock. His posture suggests concentration and agility, essential traits for this sport.\n\nThe environment around the court is lively, with spectators visible in the stands, adding to the competitive atmosphere. The camera angle provides a clear view of the action without any significant movement, allowing viewers to follow the play closely.\n\nOverall, the video encapsulates a snapshot of a high-stakes badminton match, emphasizing both the physical demands of the game and the engagement of its audience."
+            }
+        ]
+    },
+    {
+        "id": "425",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/038.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting038/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting038/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting038/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting038/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/squatting038/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/squatting038/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video showcases a person performing a squat exercise while holding a dumbbell in each hand. The individual is dressed in athletic attire, consisting of black shorts and shoes with white soles. Throughout the sequence, the person maintains proper form by keeping their back straight and knees aligned with toes. The environment appears to be an indoor space with a neutral-colored background, possibly a gym or training facility. The lighting is even, highlighting the subject without casting harsh shadows. The focus remains on the lower half of the body as the individual transitions from standing to squatting, then back up again, demonstrating control and stability during the exercise routine."
+            }
+        ]
+    },
+    {
+        "id": "426",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/023.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting023/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting023/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting023/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting023/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/squatting023/image_05.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in a military uniform standing in an outdoor setting, possibly a parking lot or open area with trees and buildings in the background. The individual is seen in various poses such as standing upright, slightly bending forward, and squatting while holding what appears to be a rifle or similar object."
+            }
+        ]
+    },
+    {
+        "id": "427",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/019.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting019/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting019/image_02.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person in athletic attire performing squats outdoors near a picnic table. The individual is wearing a red top, black shorts, and multicolored socks with sneakers. The environment appears to be a park or recreational area with greenery and open space visible in the background."
+            }
+        ]
+    },
+    {
+        "id": "428",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/005.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting005/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting005/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting005/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting005/image_04.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person performing an Asian Squat in what appears to be an office setting. The individual is wearing casual clothing and is captured at different stages of the squat, from standing upright to fully crouched with their knees bent and thighs parallel to the ground."
+            }
+        ]
+    },
+    {
+        "id": "429",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/004.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting004/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting004/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting004/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting004/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/squatting004/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/squatting004/image_06.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person performing squats in an office environment. They are wearing casual attire, including a dark-colored t-shirt and light-colored pants, along with sneakers. The setting includes typical office furniture such as desks, chairs, computer monitors, and personal items like bags and plants. During the sequence of frames, text appears on the screen providing feedback or commentary related to the exercise being demonstrated."
+            }
+        ]
+    },
+    {
+        "id": "431",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/069.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting069/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting069/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting069/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person performing squats and punches in a fitness routine."
+            }
+        ]
+    },
+    {
+        "id": "432",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/020.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting020/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting020/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting020/image_03.png",
+            "<image_03>": "/root/autodl-tmp/frames/squatting020/image_04.png",
+            "<image_04>": "/root/autodl-tmp/frames/squatting020/image_05.png",
+            "<image_05>": "/root/autodl-tmp/frames/squatting020/image_06.png",
+            "<image_06>": "/root/autodl-tmp/frames/squatting020/image_07.png",
+            "<image_07>": "/root/autodl-tmp/frames/squatting020/image_08.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02>\n<image_03>\n<image_04>\n<image_05>\n<image_06>\n<image_07> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video shows a person performing squats in an outdoor setting, likely a park or sports field. Throughout the sequence of frames, the person's posture changes from standing to squatting down and then back up, demonstrating their squatting ability."
+            }
+        ]
+    },
+    {
+        "id": "433",
+        "video_path": "/data/data4/tanbo/cpmv2.6/data/squatting/017.mp4",
+        "image": {
+            "<image_00>": "/root/autodl-tmp/frames/squatting017/image_01.png",
+            "<image_01>": "/root/autodl-tmp/frames/squatting017/image_02.png",
+            "<image_02>": "/root/autodl-tmp/frames/squatting017/image_03.png"
+        },
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image_00>\n<image_01>\n<image_02> Describe the images in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "The video features a person performing squats in an indoor setting, with the camera focused on them from a side angle. The individual is wearing a patterned top and dark pants, and their footwear appears to be black shoes or boots. They maintain a consistent squat position throughout the frames captured. In the background, there's a wall-mounted painting that adds a decorative element to the space. The environment suggests it could be a home or office hallway."
+            }
+        ]
+    }
+]
